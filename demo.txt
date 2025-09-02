@@ -1,7 +1,9 @@
 Hello Friends!
 
+This class is super boring.
 
-bla bla bla
 
+
+this is another new line
 
 Yo yo what's up !?
